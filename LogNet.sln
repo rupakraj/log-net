@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogNet.Browser.UI", "LogNet.Browser.UI\LogNet.Browser.UI.csproj", "{0AD44820-3E08-4D4B-8CCC-918D4BFEDA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogNet.Http.Core", "LogNet.Http.Core\LogNet.Http.Core.csproj", "{3AB79FC9-287F-438B-8CDF-4145A4D4FEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogNet.Http.Server", "LogNet.Http.Server\LogNet.Http.Server.csproj", "{4C5BF714-2C1B-4506-867A-9D15056F26B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogNet.Logger", "LogNet.Logger\LogNet.Logger.csproj", "{EA7C8442-2E56-4DDE-93FB-759156EC1223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD44820-3E08-4D4B-8CCC-918D4BFEDA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD44820-3E08-4D4B-8CCC-918D4BFEDA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD44820-3E08-4D4B-8CCC-918D4BFEDA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD44820-3E08-4D4B-8CCC-918D4BFEDA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB79FC9-287F-438B-8CDF-4145A4D4FEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB79FC9-287F-438B-8CDF-4145A4D4FEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB79FC9-287F-438B-8CDF-4145A4D4FEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB79FC9-287F-438B-8CDF-4145A4D4FEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5BF714-2C1B-4506-867A-9D15056F26B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5BF714-2C1B-4506-867A-9D15056F26B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5BF714-2C1B-4506-867A-9D15056F26B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5BF714-2C1B-4506-867A-9D15056F26B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7C8442-2E56-4DDE-93FB-759156EC1223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7C8442-2E56-4DDE-93FB-759156EC1223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7C8442-2E56-4DDE-93FB-759156EC1223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7C8442-2E56-4DDE-93FB-759156EC1223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
